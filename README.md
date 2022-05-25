@@ -6,4 +6,5 @@ Oyuna katkılarınızı almak isterim! İster kod ister ses olsun farketmez katk
 
 # İlerlemeyi Takip et
 [@mosman_dvalidze](https://www.instagram.com/mosman_dvalidze/)
+
 https://www.linkedin.com/in/osmandvalidze/
