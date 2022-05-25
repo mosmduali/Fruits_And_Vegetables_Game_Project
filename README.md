@@ -1,5 +1,5 @@
 [Game Video](https://drive.google.com/file/d/1MnZ5yY5c6aVHd-ksRF8ewAXTfoxPoqYj/view?usp=sharing)
-# Unity 2D Fruits and Vegatables Game
+# Unity 2D Fruits and Vegatables Game Project
 Hoş geldin! Bu, Benim Unity açık kaynaklı ilk projemdir.
 
 # Katkıda Bulunmak
