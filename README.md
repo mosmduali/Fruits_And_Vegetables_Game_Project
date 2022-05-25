@@ -1,2 +1,9 @@
 # Unity 2D Fruits and Vegatables Game
- Unity2DFruitsAndVegatablesGame
+Hoş geldin! Bu, Benim ilk Unity açık kaynaklı ilk projemdir.
+
+# Katkıda Bulunmak
+Oyuna katkılarınızı almak isterim! İster kod ister ses olsun farketmez katkı sağlaya bilirsin. Kendini bu proje ile geliştirebileceğini unutma.
+
+# İlerlemeyi Takip et
+@mosman_dvalidze
+https://www.linkedin.com/in/osmandvalidze/
