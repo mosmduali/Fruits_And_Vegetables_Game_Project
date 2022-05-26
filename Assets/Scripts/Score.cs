@@ -7,18 +7,6 @@ using UnityEngine.SceneManagement;
 
 public class Score : MonoBehaviour
 {
-    /*****************************************************/
-    /*|                                                 |*/
-    /*|                                                 |*/
-    /*|                                                 |*/
-    /*|                                                 |*/
-    /*|                                                 |*/
-    /*|                                                 |*/
-    /*|                                                 |*/
-    /*|                                                 |*/
-    /*|                                                 |*/
-    /*|                                                 |*/
-    /*****************************************************/
 
     public GameObject LoseScene; // Bir GameObject gösterilmesini ister
     public GameObject FruitsAndOtherObject; // Bir GameObject gösterilmesini ister

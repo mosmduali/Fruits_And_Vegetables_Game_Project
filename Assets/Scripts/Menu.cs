@@ -5,17 +5,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 public class Menu : MonoBehaviour
 {
-    /*****************************************************/
-    /*|                 Osman Dvalıdze                  |*/
-    /*|         osman.dvalidze@ogr.dpu.edu.tr           |*/
-    /*|             osmandvali@gmail.com                |*/
-    /*|                                                 |*/
-    /*|               @mosman_dvalidze                  |*/
-    /*|   https://www.facebook.com/osman.dvalidze2000/  |*/
-    /*|    https://www.linkedin.com/in/osmandvalidze/   |*/
-    /*|                                                 |*/
-    /*|                                                 |*/
-    /*****************************************************/
+
     Score score;
     
     // Bir sonraki Seviye ye geçiş.

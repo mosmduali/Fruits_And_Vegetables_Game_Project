@@ -5,22 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 public class EndLevel : MonoBehaviour
 {
-    /*****************************************************/
-    /*|                 Osman Dvalıdze                  |*/
-    /*|         osman.dvalidze@ogr.dpu.edu.tr           |*/
-    /*|             osmandvali@gmail.com                |*/
-    /*|                                                 |*/
-    /*|               @mosman_dvalidze                  |*/
-    /*|   https://www.facebook.com/osman.dvalidze2000/  |*/
-    /*|    https://www.linkedin.com/in/osmandvalidze/   |*/
-    /*|                                                 |*/
-    /*|          Sajed Taher Mohammed Qotate            |*/
-    /*|                202013172128                     |*/
-    /*|          sajed.qtait@ogr.dpu.edu.tr             |*/
-    /*|                                                 |*/
-    /*****************************************************/
-    //public bool[] LevelIsComplite;
-    public int level = 0;
+    
     
     public int ToplamMeyveSayisi; // Level de ki Meyve sayısını alır.
     public int IlkMeyveSayisi = 0; // Level de meyve sayısının kaç ta biteceğini belirtir.

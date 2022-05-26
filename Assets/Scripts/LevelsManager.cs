@@ -5,17 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 public class LevelsManager : MonoBehaviour
 {
-    /*****************************************************/
-    /*|                 Osman Dvalıdze                  |*/
-    /*|         osman.dvalidze@ogr.dpu.edu.tr           |*/
-    /*|             osmandvali@gmail.com                |*/
-    /*|                                                 |*/
-    /*|               @mosman_dvalidze                  |*/
-    /*|   https://www.facebook.com/osman.dvalidze2000/  |*/
-    /*|    https://www.linkedin.com/in/osmandvalidze/   |*/
-    /*|                                                 |*/
-    /*|                                                 |*/
-    /*****************************************************/
+
     EndLevel endLevel;
     public Button[] button; // Levels ekranın da ki level butonlarını bir dizi halinde alır.
 
