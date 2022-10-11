@@ -3,7 +3,9 @@
 Hoş geldin! Bu, Benim Unity açık kaynaklı ilk projemdir.
 
 # Katkıda Bulunmak
-Oyuna katkılarınızı almak isterim! İster kod ister ses olsun farketmez kkatkıda bulunabilirsiniz. Kendini bu proje ile geliştirebileceğini unutma!
+Oyuna katkılarınızı almak isterim! İster kod ister ses olsun farketmez katkıda bulunabilirsiniz. 
+
+Kendini bu proje ile geliştirebileceğini unutma!
 
 # İlerlemeyi Takip Et
 [Instagram](https://www.instagram.com/mosman_dvalidze/)
